@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1440px;
+  }
+  
+  .hero-img-container {
+    margin-bottom: 0;
+    width: 55%;
+  }
+  
+  .hero-img {
+    min-width: 100%;
+  }
+  
+  .hero-content {
+    margin-bottom: 27px;
+    width: 40%;
+    transform: translateY(-35px);
+  }
