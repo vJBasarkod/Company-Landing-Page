@@ -19,3 +19,7 @@
     width: 100%;
     transform: translateY(-35px);
   }
+
+  .hero-content__text {
+    margin-bottom: 24px;
+}
